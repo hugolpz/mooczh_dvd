@@ -1,0 +1,16 @@
+Vidéos a couper. 
+> all = tout garder. 
+> cut = coupures à faire.
++-------------------------+
+
+82 => S1.S3-4 : cut.
+	[0'00"-0'05" : titre]
+	[0'05"-1'34" : chiffres]
+	[1'34"-1'51" : dates]
+17 => S2.S1 : all.
+21 => S3.S1 : all.
+25 => S4.S1 : cut.
+	[0'00"-0'25"]
+29 => S5.S1 : all.
+33 => S6.S1 : all.
+41 => S7.S1 : all.
